@@ -2,7 +2,7 @@
   <a href="https://www.linkedin.com/in/mokenyu-atsimbom" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/abimmost" target="_blank">
+  <a href="https://github.com/lordmbom" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
   <a href="mailto:atsimbomgwe31@gmail.com" target="_blank">
@@ -74,7 +74,7 @@ I'm a passionate Generative AI Engineer and Python developer from Cameroon. I'm 
 |---------|-------------|-----------|--------|
 | **Toolify** | AI tool recognition & manual generation | TypeScript, Python, FastAPI, Gemini Vision, Supabase | [View](https://github.com/iwstech3/Toolify) |
 | **Webkal Bot** | Telegram AI assistant for business automation | Python, FastAPI, Groq, Gemini, Telegram API | [View](https://github.com/WEB-KAL/webkal_telegram_bot) |
-| **Craptcha-TTS** | TTS Telegram message scraper service | Python, Telegram API | [View](https://github.com/abimmost/craptcha-tts) |
+| **Craptcha-TTS** | TTS Telegram message scraper service | Python, Telegram API | [View](https://github.com/lordmbom/craptcha-tts) |
 
 </div>
 
@@ -125,14 +125,14 @@ Official Telegram assistant for WEBKAL Solutions. Full-stack Python implementati
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abimmost&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abimmost&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=lordmbom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lordmbom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abimmost&theme=tokyonight&hide_border=true" height="150" alt="streak stats"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lordmbom&theme=tokyonight&hide_border=true" height="150" alt="streak stats"  />
 </div>
 
 <div align="center">
@@ -181,7 +181,7 @@ Official Telegram assistant for WEBKAL Solutions. Full-stack Python implementati
 ---
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/113727083?v=4" alt="Abimmost Profile Picture" height="150" style="border-radius: 50%; margin-top: 20px;" />
+  <img src="https://avatars.githubusercontent.com/u/113727083?v=4" alt="lordmbom Profile Picture" height="150" style="border-radius: 50%; margin-top: 20px;" />
   <h3>Thanks for visiting! 🙌</h3>
   <p>Explore my repositories, check out my projects, and let's build something amazing together.</p>
   <p>Whether it's AI, backend engineering, or bot automation—I'm always excited to collaborate!</p>
@@ -190,5 +190,5 @@ Official Telegram assistant for WEBKAL Solutions. Full-stack Python implementati
 ---
 
 <div align="center">
-  <sub>Built by Abimmost with passion for AI and Software Engineering</sub>
+  <sub>Built by lordmbom with passion for AI and Software Engineering</sub>
 </div>
