@@ -1,7 +1,8 @@
 # Mokenyu Atsimbom Gwe
 
 ### Backend Engineer | AI Agents & MCP Specialist | Telegram Automations
-*"Change is Constant / Attention Is All You Need"*
+*"Change is K"*
+*"Attention Is All You Need"*
 
 ---
 
@@ -38,5 +39,4 @@ I am a pragmatically minded Backend & AI Automation Engineer focused on building
   <a href="https://www.linkedin.com/in/mokenyu-atsimbom" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect%20on%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="38" alt="LinkedIn Profile" />
   </a>
-  <p>LinkedIn Handle: <b><a href="https://www.linkedin.com/in/mokenyu-atsimbom" target="_blank">mokenyu-atsimbom</a></b></p>
 </div>
