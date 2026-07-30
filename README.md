@@ -1,7 +1,8 @@
 # Mokenyu Atsimbom Gwe
 
 ### Backend Engineer | AI Agents & MCP Specialist | Telegram Automations
-*"Change is Constant / Attention Is All You Need"*
+*"Attention Is All You Need"*
+*"Change is K"*
 
 ---
 
@@ -29,8 +30,16 @@ I am a pragmatically minded Backend & AI Automation Engineer focused on building
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sirmbom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sirmbom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sirmbom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sirmbom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirmbom&theme=tokyonight&hide_border=true" height="150" alt="streak stats"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sirmbom.sirmbom" />
 </div>
 
 ---
