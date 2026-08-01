@@ -1,7 +1,6 @@
 # Hi, I'm Mokenyu.
 
 ### Backend Engineer | AI Agents & MCP Specialist | Telegram Automations
-*"Attention Is All You Need"*
 *"Change is K"*
 
 ---
