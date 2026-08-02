@@ -6,8 +6,9 @@
 *"Change is K"*
 
 ---
+---
 
-## <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="35" alt="Wave GIF"> About Me
+## <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="50" alt="Wave GIF"> About Me
 
 I am a Backend & AI Automation Developer focused on building high-impact agentic workflows, Telegram automation tools, and production-ready APIs. 
 
