@@ -1,29 +1,47 @@
-# Hi, I'm Mokenyu.
+<img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="220" alt="Developer GIF">
+
+# Mokenyu Atsimbom Gwe
 
 ### Backend Engineer | AI Agents & MCP Specialist | Telegram Automations
-*"Change is K"*
+*"Attention Is All You Need"*  
+*"Change is Constant"*
 
 ---
 
-## About Me
+## <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="35" alt="Wave GIF"> About Me
 
-I like to think I'm a pragmatically minded Backend & AI Automation Engineer focused on building high-impact agentic workflows, Telegram automation tools, and production-ready APIs. 
+I am a pragmatically minded Backend & AI Automation Engineer focused on building high-impact agentic workflows, Telegram automation tools, and production-ready APIs. 
 
 * 🏆 **1st Place Winner at Coltechathon Hackathon** for Gravelly (Real-time WebRTC AI Speech Coach).
-* ⚙️ **Core Expertise**: Python, FastAPI, Gemini Live API, LangChain/LangGraph, Telethon Telegram Automations, Model Context Protocol (MCP), and Supabase.
-
-I under-overengineer solutions and thus ship clean and reliable systems that give users more time.
+* ⚙️ **Core Expertise**: Python, FastAPI, Gemini Live API, LangChain/LangGraph, Telethon Telegram Automations, Model Context Protocol (MCP), and Supabase RLS.
+* 🎯 **Engineering Philosophy**: Pragmatic engineering focused on shipping clean, reliable, and unbloated systems that solve real user problems directly.
 
 ---
 
-**CHECK OUT MY PINNED :)**
+## Featured Star Projects
+
+* **[Gravelly](https://github.com/sirmbom/va-gravelly)** *(Coltechathon 1st Place Winner)* — Real-time AI speech coach and interview trainer powered by Gemini Live API and GetStream WebRTC.
+* **[Toolify](https://github.com/sirmbom/Toolify-abimmost)** — Multimodal AI tool recognition and manual generator built with Next.js 15, FastAPI, Gemini Vision, Tavily, and YouTube transcript extraction.
+* **[Craptcha-TTS](https://github.com/sirmbom/craptcha-tts)** — Telethon-powered Telegram message scraper streaming low-latency 24kHz PCM native audio via Gemini Live API.
+* **[Swello Server](https://github.com/sirmbom/swello-server)** — Cameroonian food discovery backend engine with custom Balanced Level Score (BLS) algorithms and Gemini multi-model fallback routines.
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sirmbom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sirmbom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+---
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirmbom&theme=tokyonight&hide_border=true" height="150" alt="streak stats"  />
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sirmbom.sirmbom" />
 </div>
 
 ---
