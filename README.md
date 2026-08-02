@@ -1,16 +1,15 @@
+## Hi, I'm Mokenyu.
 <img align='right' src="https://media.giphy.com/media/HEPwfdu6T6svpPE1eN/giphy.gif" width="220" alt="Developer GIF">
 
-# Mokenyu Atsimbom Gwe
-
-### Backend Engineer | AI Agents & MCP Specialist | Telegram Automations
-*"Attention Is All You Need"*  
-*"Change is Constant"*
+### Backend Developer | AI Agents & MCP Specialist | Telegram Automations
+  
+*"Change is K"*
 
 ---
 
 ## <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="35" alt="Wave GIF"> About Me
 
-I am a pragmatically minded Backend & AI Automation Engineer focused on building high-impact agentic workflows, Telegram automation tools, and production-ready APIs. 
+I am a Backend & AI Automation Developer focused on building high-impact agentic workflows, Telegram automation tools, and production-ready APIs. 
 
 * 🏆 **1st Place Winner at Coltechathon Hackathon** for Gravelly (Real-time WebRTC AI Speech Coach).
 * ⚙️ **Core Expertise**: Python, FastAPI, Gemini Live API, LangChain/LangGraph, Telethon Telegram Automations, Model Context Protocol (MCP), and Supabase RLS.
