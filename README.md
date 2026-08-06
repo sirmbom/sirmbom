@@ -27,12 +27,6 @@ I am a Backend & AI Automation Developer focused on building high-impact agentic
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sirmbom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-</div>
-
 ---
 
 <div align="center">
