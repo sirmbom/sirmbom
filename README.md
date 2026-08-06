@@ -31,15 +31,11 @@ I am a Backend & AI Automation Developer focused on building high-impact agentic
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sirmbom&theme=sakura-x&hide_border=true&border_radius=5&card_width=300&background=-255%2C161506%2C7C9DEB&ring=5047DD&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sirmbom.sirmbom" />
-</div>
-
 ---
 
 <div align="center">
-  <br />
   <a href="https://www.linkedin.com/in/mokenyu-atsimbom" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Connect%20on%20LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="38" alt="LinkedIn Profile" />
   </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sirmbom.sirmbom" />
 </div>
