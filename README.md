@@ -27,10 +27,8 @@ I am a Backend & AI Automation Developer focused on building high-impact agentic
 
 ---
 
----
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirmbom&theme=tokyonight&hide_border=true" height="150" alt="streak stats"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sirmbom&theme=sakura-x&hide_border=true&border_radius=5&timezone=UTC%2B1&card_width=300&background=-255%2C161506%2C7C9DEB&ring=5047DD&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
